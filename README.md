@@ -1,7 +1,7 @@
 # 🏦 Fraud Detection using Machine Learning
 
 ## Files Description  
-notebooks/fraud_detection.ipynb	Main Jupyter Notebook with fraud detection model implementation.  
+**notebooks/fraud_detection.ipynb**	Main Jupyter Notebook with fraud detection model implementation.  
 data/creditcard.csv	Dataset containing credit card transactions.  
 requirements.txt	List of required Python libraries.  
 results/	Exported PDF and HTML versions of the Jupyter Notebook.  
